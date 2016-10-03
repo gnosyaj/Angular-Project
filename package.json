@@ -1,0 +1,20 @@
+{
+  "name": "sports-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jay",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "connect": "^3.5.0",
+    "express": "^4.14.0",
+    "path": "^0.12.7",
+    "serve-static": "^1.11.1"
+  }
+}
